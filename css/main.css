@@ -23,7 +23,11 @@ html {
 }
 
 .banner {
-
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  padding-top: 66.25%;
+  position: absolute;
+  background-position: top;
 }
 
 .banner-content {
