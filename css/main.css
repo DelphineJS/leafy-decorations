@@ -3,7 +3,7 @@ html {
 }
 
 .masthead {
-  background: url("../images/leaf-bg.svg") repeat center top / 64px auto;
+  background: url("../images/leaf-bg.svg") repeat top / 64px auto;
   background-color: #588477;
   border-top: 3px #2d5a4d solid;
   border-bottom: 3px #2d5a4d solid;
@@ -43,6 +43,7 @@ html {
   color: #fff;
   background: url("../images/two-leaves.svg") no-repeat 0.75em 180px / 100px;
   padding-top: 300px;
+  border-bottom: 3px #2d5a4d solid;
 }
 
 @media only screen and (min-width: 60em) {
