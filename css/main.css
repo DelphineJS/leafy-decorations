@@ -3,7 +3,10 @@ html {
 }
 
 .masthead {
-
+  background: url("../images/leaf-bg.svg") repeat center top / 64px auto;
+  background-color: #588477;
+  border-bottom: 3px #2d5a4d solid;
+  color: #fff;
 }
 
 .logo {
@@ -16,6 +19,10 @@ html {
 
 .nav a {
   text-decoration: none;
+  color: #fff;
+  background-color: #467366;
+  border: 3px #2d5a4d solid;
+  border-radius: 8px;
 }
 
 .nav a:hover {
